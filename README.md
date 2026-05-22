@@ -1,4 +1,4 @@
-# Media, Entertainment & Content Platforms AI Chatbot
+# DRC Media, Entertainment & Content Platforms AI Chatbot
 
 [![CI](https://github.com/drcinfotech/Media-AI-Chatbot/actions/workflows/ci.yml/badge.svg)](https://github.com/drcinfotech/Media-AI-Chatbot/actions/workflows/ci.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
