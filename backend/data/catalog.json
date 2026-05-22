@@ -1,0 +1,49 @@
+{
+  "titles": [
+    {"id": "TI-1001", "title": "The Last Cartographer", "type": "movie", "year": 2024, "duration_min": 138, "rating": "U/A 13+", "imdb": 8.2, "genres": ["Adventure", "Drama", "Mystery"], "languages": ["English", "Hindi"], "subtitles": ["English", "Hindi", "Tamil", "Telugu"], "synopsis": "A cartographer chasing the last unmapped corner of the world discovers a secret that rewrites human history.", "cast": ["Aanya Verma", "Daniel Park", "Marcus Cole"], "director": "Ishaan Roy", "audio": ["Dolby Atmos", "5.1", "Stereo"], "available_in_4k": true, "popularity": 94},
+    {"id": "TI-1002", "title": "Midnight Junction", "type": "series", "year": 2023, "seasons": 3, "episodes_total": 24, "episode_avg_min": 48, "rating": "A 18+", "imdb": 8.7, "genres": ["Crime", "Thriller", "Drama"], "languages": ["Hindi", "English"], "subtitles": ["English", "Hindi", "Bengali"], "synopsis": "A railway-station ticket clerk witnesses a murder and gets pulled into a city-wide conspiracy that spans three seasons.", "cast": ["Karan Bhatt", "Riya Sen", "Omar Khan"], "showrunner": "Priya Menon", "audio": ["5.1", "Stereo"], "available_in_4k": true, "popularity": 89},
+    {"id": "TI-1003", "title": "Paper Birds", "type": "movie", "year": 2022, "duration_min": 112, "rating": "U", "imdb": 7.6, "genres": ["Animation", "Family", "Adventure"], "languages": ["English", "Hindi", "Tamil"], "subtitles": ["English", "Hindi", "Tamil", "Telugu", "Malayalam"], "synopsis": "A girl who folds origami birds discovers that one of them comes to life at night and asks her for help.", "cast": ["Voice: Tara Kapoor", "Voice: Sam Reid"], "director": "Studio Chinar", "audio": ["5.1", "Stereo"], "available_in_4k": false, "popularity": 76, "kids_safe": true},
+    {"id": "TI-1004", "title": "Quantum & Quill", "type": "series", "year": 2024, "seasons": 1, "episodes_total": 8, "episode_avg_min": 52, "rating": "U/A 16+", "imdb": 7.9, "genres": ["Sci-Fi", "Comedy", "Mystery"], "languages": ["English"], "subtitles": ["English", "Hindi", "Spanish", "French"], "synopsis": "A quantum physicist and a 19th-century novelist solve modern crimes together through a glitch in time only they understand.", "cast": ["Eve Asante", "Henry Wilkes"], "showrunner": "Maya Lin", "audio": ["Dolby Atmos", "5.1"], "available_in_4k": true, "popularity": 82},
+    {"id": "TI-1005", "title": "The Quiet Cafe", "type": "movie", "year": 2023, "duration_min": 96, "rating": "U/A 13+", "imdb": 7.3, "genres": ["Romance", "Slice-of-Life", "Drama"], "languages": ["Korean", "English", "Hindi"], "subtitles": ["English", "Hindi", "Korean"], "synopsis": "A barista who never speaks and a writer with chronic insomnia begin an unlikely friendship in a 24-hour cafe in Seoul.", "cast": ["Min-Jae Park", "Ji-Won Cho"], "director": "Hye-Rin Yoon", "audio": ["Stereo"], "available_in_4k": false, "popularity": 68},
+    {"id": "TI-1006", "title": "Ironroot Legacy", "type": "series", "year": 2024, "seasons": 2, "episodes_total": 16, "episode_avg_min": 56, "rating": "A 18+", "imdb": 8.4, "genres": ["Fantasy", "Drama", "Action"], "languages": ["English", "Hindi"], "subtitles": ["English", "Hindi", "Arabic", "Spanish"], "synopsis": "When the last living member of the Ironroot bloodline returns from exile, the kingdom's brittle peace shatters.", "cast": ["Lior Davies", "Ananya Rao", "Tomas Bernal"], "showrunner": "James Okafor", "audio": ["Dolby Atmos", "5.1"], "available_in_4k": true, "popularity": 91},
+    {"id": "TI-1007", "title": "Mango Skies", "type": "movie", "year": 2024, "duration_min": 124, "rating": "U", "imdb": 7.4, "genres": ["Comedy", "Family", "Coming-of-Age"], "languages": ["Hindi", "English"], "subtitles": ["English", "Hindi", "Tamil", "Bengali"], "synopsis": "Three cousins spend a summer at their grandmother's mango orchard and uncover an old family rivalry.", "cast": ["Diya Shankar", "Vir Kapoor", "Asha Iyer"], "director": "Neha Khatri", "audio": ["5.1", "Stereo"], "available_in_4k": true, "popularity": 77, "kids_safe": true},
+    {"id": "TI-1008", "title": "Static & Signal", "type": "series", "year": 2022, "seasons": 4, "episodes_total": 36, "episode_avg_min": 44, "rating": "U/A 16+", "imdb": 8.5, "genres": ["Thriller", "Crime", "Drama"], "languages": ["English"], "subtitles": ["English", "Hindi", "Tamil", "French", "German"], "synopsis": "A radio host in a coastal town stumbles onto a sleeper-cell case nobody else can hear except his late-night listeners.", "cast": ["Theo Vance", "Mira Sharif"], "showrunner": "Olivia Reyes", "audio": ["Dolby Atmos", "5.1"], "available_in_4k": true, "popularity": 86},
+    {"id": "TI-1009", "title": "Tiny Astronauts", "type": "series", "year": 2023, "seasons": 2, "episodes_total": 20, "episode_avg_min": 22, "rating": "U", "imdb": 7.1, "genres": ["Animation", "Family", "Educational"], "languages": ["English", "Hindi", "Tamil"], "subtitles": ["English", "Hindi", "Tamil", "Telugu", "Marathi"], "synopsis": "A team of kid-sized astronauts on a not-quite-real space station learn one science concept per episode through silly missions.", "cast": ["Voice: cast of children"], "showrunner": "Studio Chinar", "audio": ["Stereo"], "available_in_4k": false, "popularity": 71, "kids_safe": true},
+    {"id": "TI-1010", "title": "Concrete Bloom", "type": "documentary", "year": 2024, "duration_min": 89, "rating": "U/A 13+", "imdb": 8.0, "genres": ["Documentary", "Nature", "Urban"], "languages": ["English", "Hindi"], "subtitles": ["English", "Hindi", "Spanish"], "synopsis": "Wildlife is returning to abandoned industrial zones around the world. A two-year look at the plants and animals filling the gaps we left.", "cast": ["Narrated by Dev Anand Singh"], "director": "Liam O'Connor", "audio": ["5.1", "Stereo"], "available_in_4k": true, "popularity": 73}
+  ],
+  "profiles": [
+    {"id": "PR-01", "name": "Main",   "type": "adult", "avatar": "indigo", "is_active": true,  "language_pref": "English", "subtitle_pref": "English"},
+    {"id": "PR-02", "name": "Family", "type": "adult", "avatar": "amber",  "is_active": false, "language_pref": "Hindi",   "subtitle_pref": "English"},
+    {"id": "PR-03", "name": "Kids",   "type": "kids",  "avatar": "teal",   "is_active": false, "language_pref": "English", "subtitle_pref": "English", "pin_protected": true, "max_rating": "U"}
+  ],
+  "watchlist": [
+    {"title_id": "TI-1004", "added_on": "Nov 18, 2025"},
+    {"title_id": "TI-1010", "added_on": "Nov 12, 2025"}
+  ],
+  "continue_watching": [
+    {"title_id": "TI-1002", "season": 2, "episode": 5, "progress_min": 31, "total_min": 48, "last_watched": "Yesterday, 11:14 PM"},
+    {"title_id": "TI-1008", "season": 3, "episode": 9, "progress_min": 12, "total_min": 44, "last_watched": "2 days ago"},
+    {"title_id": "TI-1001", "progress_min": 67, "total_min": 138, "last_watched": "Last week"}
+  ],
+  "downloads": [
+    {"title_id": "TI-1002", "season": 2, "episode": 6, "size_mb": 412, "quality": "HD", "expires_in_days": 13, "device": "iPhone 15"},
+    {"title_id": "TI-1003", "size_mb": 980, "quality": "Full HD", "expires_in_days": 28, "device": "iPad"}
+  ],
+  "plans": [
+    {"id": "PLAN-MOBILE",  "name": "Mobile",  "price_inr": 149, "billing": "monthly", "max_quality": "720p HD",       "audio": "Stereo",       "devices": "Phone only - 1 device",                "downloads": "Up to 10",  "ads": "Limited ads"},
+    {"id": "PLAN-BASIC",   "name": "Basic",   "price_inr": 299, "billing": "monthly", "max_quality": "1080p Full HD", "audio": "5.1 Surround", "devices": "All devices - 2 simultaneous streams", "downloads": "Up to 50",  "ads": "No ads"},
+    {"id": "PLAN-PREMIUM", "name": "Premium", "price_inr": 599, "billing": "monthly", "max_quality": "4K UHD + HDR",  "audio": "Dolby Atmos",  "devices": "All devices - 4 simultaneous streams", "downloads": "Unlimited", "ads": "No ads"}
+  ],
+  "current_subscription": {
+    "plan_id": "PLAN-BASIC",
+    "renews_on": "Dec 18, 2025",
+    "amount_inr": 299,
+    "auto_renew": true,
+    "payment_method": "UPI - saved"
+  },
+  "devices": [
+    {"id": "DV-01", "name": "iPhone 15",     "type": "phone",  "last_active": "5 min ago", "is_current": true},
+    {"id": "DV-02", "name": "MacBook Air",   "type": "laptop", "last_active": "Yesterday", "is_current": false},
+    {"id": "DV-03", "name": "Smart TV Hall", "type": "tv",     "last_active": "Last week", "is_current": false}
+  ]
+}

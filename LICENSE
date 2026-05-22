@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2026 DRC Infotech LLP
+Copyright (c) 2025 DRC InfoTech
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -19,3 +19,38 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+---
+
+ADDITIONAL DISCLAIMER FOR THIS MEDIA / ENTERTAINMENT DEMO
+
+This project is a portfolio / educational demo only. It is NOT a real
+streaming service, NOT affiliated with any actual media or OTT platform,
+and does NOT stream any real movies, series, or music.
+
+- All titles, studios, cast members, showrunners, directors, plan prices,
+  account data, profile names, device names, and watchlist entries are
+  FICTIONAL. Any resemblance to real titles, real people, or real services
+  is coincidental.
+- Named real pirate sites and torrent indexes appear in the code's safety
+  regex patterns ONLY so the chatbot can correctly REFUSE requests for
+  them. They are NOT endorsed, recommended, or linked to.
+- Legal references mentioned in the safety layer (Indian IT Rules 2021,
+  Copyright Act 1957, personality rights, MLC / ASCAP / BMI / IPRS music
+  licensing, DPDP Act, COPPA, GDPR-K, etc.) are general public-domain
+  information for educational context. They are NOT legal advice and
+  should not be treated as such. Consult a lawyer for real-world legal
+  questions.
+- Fact-checking organizations named in the news-verification refusal
+  block (PIB Fact Check, Alt News, BOOM, Vishvas News, Fact Crescendo,
+  Snopes, PolitiFact, Reuters Fact Check, AFP Fact Check, AP Fact Check)
+  are independent third parties. This project is not affiliated with any
+  of them.
+- The chatbot's recommendations, ratings, and IMDb scores in the
+  fictional catalog are not real and should not be relied upon.
+
+Use of this project does not grant any rights to real intellectual
+property, real streaming services, or real public figures. Anyone
+deploying derivatives of this code is responsible for ensuring their
+content, claims, and references comply with applicable laws in their
+jurisdiction.
